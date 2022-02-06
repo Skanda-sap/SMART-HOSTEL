@@ -1,4 +1,4 @@
-# smart_hostel
+# Smart_Hostel
 To reduce and optimize the usage of electricity in college hostel's a simple model based on Internet of Things was designed. The model included a NodeMCU micro-controller, Temperature sensor(DHT11), Ultrasonics sensor(HC-SR04), Bluetooth(HC-05), L-shape signle shaft 150rom motor, DPDT switch and an OLED display.
 
 # Wokring Principle
