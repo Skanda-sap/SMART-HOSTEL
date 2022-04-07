@@ -8,3 +8,7 @@ To reduce and optimize the usage of electricity in college hostel's a simple mod
 - Then, user is allowed to use the switch to operate automatic door operation in the model.
 - If the passcode entered is wrong then the alert is sent to the buzzer to initiate burglar alarm.
 - Temperature sensor shows the temperature of the building or houses and can be used to regulate air conditioning.
+
+<p align = "center">
+<img src = "smart_hostel.png">
+</p>
